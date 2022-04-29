@@ -1,5 +1,12 @@
 # Alpha_1602I2CGame
 
+Here is the 1.0v of the Alpha game. 
+
+<h2 style=bold># Equipment Requirements:</h2>
+1. Arduino Uno
+1. 1602A_LCD Display Module
+1. I2C Module
+1. 4x3 Keypad ( or any other keypads work as well)
 
 
 <h1 style=bold> "Connections" </h1>
